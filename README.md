@@ -1,4 +1,4 @@
-# Ckpt 2 pb
+# Convert TensorFlow Checkpoint to Frozen pb.
 a high level code for users to convert tensorflow checkpoint file to frozen protobuff file.
 
 ## requirements
